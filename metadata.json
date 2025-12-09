@@ -1,0 +1,5 @@
+{
+  "name": "UI-FLOW",
+  "description": "AI-powered UI design generator allowing users to create, preview in simulators, and export high-fidelity mobile app screens.",
+  "requestFramePermissions": []
+}
