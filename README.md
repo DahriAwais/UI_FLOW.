@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://private-user-images.githubusercontent.com/151646479/524414046-8d45ff6b-422c-4534-a2d5-99cf1dd33f95.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUzMDAwMjQsIm5iZiI6MTc2NTI5OTcyNCwicGF0aCI6Ii8xNTE2NDY0NzkvNTI0NDE0MDQ2LThkNDVmZjZiLTQyMmMtNDUzNC1hMmQ1LTk5Y2YxZGQzM2Y5NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxNzAyMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTgzMDAzYWIzM2JiZjlhNmU2YTk0OTg2OWM0ZmExODM3YzdmYWQ2ODNkYjUwYjVkMmYxOWVmMGI5MDhkZjIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yxbW4Fd6R4c0ethXL30o7PiDaCD3JE8wZwkywjOy9K8" />
 </div>
 
 # AI-Powered UI Flow Generator
